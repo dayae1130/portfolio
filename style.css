@@ -1,0 +1,60 @@
+body {
+    font-family: "42dot Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-color:#282A2E;
+    color:#ffff;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 40px 10px 40px;
+    background-color:#353638;
+}
+
+li {
+    display: inline;
+}
+
+main {
+    padding: 10px 40px 10px 40px;
+}
+
+.project-name {
+    font-size: 40px;
+    font-weight: 500;
+    color:#D6D9DC;
+}
+
+#first-project {
+    color: #30C46C;
+    font-weight:500;
+    font-size:40px;
+}
+
+p{
+    font-family: "Noto Serif KR", serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+
+h1 {
+    color: #9747FF;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.friends{
+    color:forestgreen;
+}
+
+img {
+    width:200px;
+}
+
+.logo {
+    width: 50px;
+}
